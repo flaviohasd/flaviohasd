@@ -5,6 +5,8 @@ I'm Flávio Dias. Currently about to graduate in Mechanical Engineering at Feder
 My interests are engineering stuff (of course), programming, technology in general, physics, finances, music and games.
 
 
+
+
 ### You can find me here:
 <p align="left">
 <div> 
