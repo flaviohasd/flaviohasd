@@ -1,6 +1,6 @@
 ### 👋 Hello there!
 
-I'm Flávio Dias. Mechanical Engineer graduated at Federal University of Amazonas (Brazil), at the moment, seeking an engineer job.
+My name is Flávio Dias, I'm a Mechanical Engineer graduated at Federal University of Amazonas (Brazil). At the moment, seeking an engineer job.
 
 My interests are engineering stuff (of course), programming, technology in general, physics, finances, music and games.
 
