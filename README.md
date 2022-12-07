@@ -14,7 +14,7 @@ My name is Flávio Dias, I'm a Mechanical Engineer graduated at Federal Universi
 
 #### Get to know me:
 - My interests are engineering stuff (of course), programming, technology in general, physics, finances, music and games;
-- I'm currently seeking an engineer job, entry level or as a project manager, or in technology development (research);
+- I'm currently seeking an engineer job, entry level or as a project manager, technology development (research) or data analysis;
 - I'm a self-thaught person.
 
 <br/>
