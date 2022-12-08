@@ -1,4 +1,4 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=flaviohasd&label=Views&color=blue&style=plastic" alt="flaviohasd" /> </p>
+![Profile Views](https://komarev.com/ghpvc/?username=flaviohasd&color=green) | ![Followers](https://img.shields.io/github/followers/flaviohasd) | ![Stars](https://img.shields.io/github/stars/flaviohasd?label=Profile%20Stars&logo=Profile%20stars&logoColor=g)
 
 ### 👋 Hello there!
 
@@ -21,20 +21,16 @@ My name is Flávio Dias, I'm a Mechanical Engineer graduated at Federal Universi
 
 #### Languages
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/matlab/matlab.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/arduino/arduino.png"></code>
+<code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/matlab/matlab.png"></code>
+<code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/arduino/arduino.png"></code>
 
 <br/>
 
 #### ⚡ My Activity
-<a href="https://github.com/flaviohasd">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=flaviohasd&theme=light&hide_langs_below=1" />
-</a>
-<a href="https://github.com/flaviohasd">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=flaviohasd&show_icons=true&theme=light&line_height=27" alt="Yi Qiang's github stats"/>
-</a>
-<br/>
 
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=flaviohasd&margin-w=8)](https://github.com/ryo-ma/github-profile-trophy)
+![](https://github-readme-stats.vercel.app/api?username=flaviohasd&theme=light&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=flaviohasd&theme=light&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=flaviohasd&theme=light&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
