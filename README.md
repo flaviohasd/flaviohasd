@@ -1,4 +1,4 @@
-![Profile Views](https://komarev.com/ghpvc/?username=flaviohasd&color=green) | ![Followers](https://img.shields.io/github/followers/flaviohasd) | ![Stars](https://img.shields.io/github/stars/flaviohasd?label=Profile%20Stars&logo=Profile%20stars&logoColor=g)
+![Profile Views](https://komarev.com/ghpvc/?username=flaviohasd&color=green)  ![Followers](https://img.shields.io/github/followers/flaviohasd)  ![Stars](https://img.shields.io/github/stars/flaviohasd?label=Profile%20Stars&logo=Profile%20stars&logoColor=g)
 
 ### 👋 Hello there!
 
@@ -15,7 +15,7 @@ My name is Flávio Dias, I'm a Mechanical Engineer graduated at Federal Universi
 #### Get to know me:
 - My interests are engineering stuff (of course), programming, technology in general, physics, finances, music and games;
 - I'm currently seeking an engineer job, entry level or as a project manager, technology development (research) or data analysis;
-- I'm a self-thaught person.
+- I'm a self-thaught person, currently deciding whats the next life project.
 
 <br/>
 
