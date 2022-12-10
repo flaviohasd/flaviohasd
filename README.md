@@ -15,7 +15,7 @@ My name is Flávio Dias, I'm a Mechanical Engineer graduated at Federal Universi
 #### Get to know me:
 - My interests are engineering stuff (of course), programming, technology in general, physics, finances, music and games;
 - I'm currently seeking an engineer job, entry level or as a project manager, technology development (research) or data analysis;
-- I'm a self-thaught person, currently learning from ![freeCodeCamp](https://github.com/freeCodeCamp) Data Science course: 
+- I'm a self-thaught person, currently learning from ![freeCodeCamp](https://github.com/freeCodeCamp) Data Analysis course:
  <a href="https://freecodecamp.org/learn/data-analysis-with-python/" > Data Analysis with Python</a>.
 
 <br/>
