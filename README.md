@@ -41,6 +41,11 @@ My name is Flávio Dias, I'm a Mechanical Engineer graduated at Federal Universi
   <img alig src="https://github-profile-trophy.vercel.app/?username=flaviohasd&no-bg=true&no-frame=true&theme=dark" />
 </p>
 
-![](https://github-readme-stats.vercel.app/api?username=flaviohasd&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=flaviohasd&theme=dark&hide_border=true)<br/>
+<p align="center">
+  <img alig src="https://github-readme-stats.vercel.app/api?username=flaviohasd&theme=dark&hide_border=true&include_all_commits=true&count_private=true" />
+</p>
+
+<p align="center">
+  <img alig src="https://github-readme-streak-stats.herokuapp.com/?user=flaviohasd&theme=dark&hide_border=true" />
+</p>
 
