@@ -4,6 +4,8 @@
 ### 👋 Hello there!
 
 My name is Flávio Dias, I'm a Mechanical Engineer graduated at Federal University of Amazonas (Brazil).
+<br/>
+<br/>
 
 #### Get to know me:
 - My interests are engineering stuff (of course), programming, technology in general, physics, finances, music and games;
@@ -13,14 +15,9 @@ My name is Flávio Dias, I'm a Mechanical Engineer graduated at Federal Universi
 
 #### You can find me here:
 <p align="left">
-<div> 
- 
+<div>
 <a href="https://www.linkedin.com/in/flaviohasd/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="mailto:flaviohasd@hotmail.com" target="_blank"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
-
-</div>
-<br/>
-
 
 #
 
@@ -35,7 +32,6 @@ My name is Flávio Dias, I'm a Mechanical Engineer graduated at Federal Universi
 <p align="center">
     <img align="center" height="120px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=flaviohasd&text_color=FFFFFF&bg_color=000000&title_color=FFFFFF&langs_count=15&layout=compact&hide_border=true" />
 </p>
-<br/>
 
 #
 
