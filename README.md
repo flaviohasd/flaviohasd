@@ -1,4 +1,4 @@
-![Profile Views](https://komarev.com/ghpvc/?username=flaviohasd&color=green)
+<!-- ![Profile Views](https://komarev.com/ghpvc/?username=flaviohasd&color=green) -->
 ![Followers](https://img.shields.io/github/followers/flaviohasd)  ![Stars](https://img.shields.io/github/stars/flaviohasd?label=Profile%20Stars&logo=Profile%20stars&logoColor=g)
 
 ### 👋 Hello there!
