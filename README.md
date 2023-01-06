@@ -25,6 +25,7 @@ My name is Flávio Dias, I'm a Mechanical Engineer graduated at Federal Universi
 <p align="center">
 <code><img height="60" src="https://avatars.githubusercontent.com/u/8590076?s=200&v=4"></code>
 <code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="60" src="https://github.com/microsoft/PowerBI-Icons/raw/main/PNG/Power-BI.png"></code>
 <code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/latex/latex.png"></code>
 <code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/arduino/arduino.png"></code>
 </p>
