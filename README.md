@@ -3,7 +3,7 @@
 
 ### 👋 Hello there!
 
-My name is Flávio Dias, I'm a 28 yo Mechanical Engineer graduated at Federal University of Amazonas (Brazil).
+My name is Flávio Dias, I'm a 28 yo brazilian Mechanical Engineer graduated at Federal University of Amazonas.
 <br/>
 <br/>
 
