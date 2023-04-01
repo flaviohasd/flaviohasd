@@ -3,14 +3,15 @@
 
 ### 👋 Hello there!
 
-My name is Flávio Dias, I'm a Mechanical Engineer graduated at Federal University of Amazonas (Brazil).
+My name is Flávio Dias, I'm a 28 yo Mechanical Engineer graduated at Federal University of Amazonas (Brazil).
 <br/>
 <br/>
 
 #### Get to know me:
 - My interests are engineering stuff (of course), programming, technology in general, physics, finances, music and games;
-- I'm currently seeking an engineer job, entry level or as a project manager/analyst, technology development (research) or data analysis;
-- I'm a self-learner, studying Data Sience at the moment.
+- I reacently concluded the Professional Data Science course from IBM;
+- Life taught me to become a self-learner, and at the moment, I'm writing a technical paper about gear vibrations (which will come to public at the end of the year);
+- Working on a local metallurgical company as an engineering analyst.
 <br/>
 
 #### You can find me here:
