@@ -3,7 +3,7 @@
 
 ### 👋 Hello there!
 
-My name is Flávio Dias, I'm a 28 yo brazilian Mechanical Engineer graduated at Federal University of Amazonas.
+My name is Flávio Dias, I'm a 29 yo brazilian Mechanical Engineer graduated at Federal University of Amazonas.
 <br/>
 <br/>
 
@@ -11,7 +11,7 @@ My name is Flávio Dias, I'm a 28 yo brazilian Mechanical Engineer graduated at 
 - My interests are engineering stuff (of course), programming, technology in general, physics, finances, music and games;
 - I reacently concluded the Professional Data Science course from IBM;
 - Life taught me to become a self-learner and, at the moment, I'm writing a technical paper about gear vibration minimization (which will come to public by the end of the year);
-- I'm currently working at Yamaha Motor Company as Industrial Specialist.
+- I'm currently working at Yamaha Motor Company as Industrial Engineering Specialist, focused in the foundry process.
 <br/>
 
 #### You can find me here:
