@@ -10,7 +10,7 @@ My name is Flávio Dias, I'm Mechanical Engineer graduated at Federal University
 #### Get to know me:
 - My interests are engineering stuff (of course), programming, technology in general, physics, finances, music and games;
 - Life taught me to become a self-learner and I'm always trying to learn something new.
-- I'm currently working at Yamaha Motor Company as Industrial Engineer, focused in the foundry process.
+- I'm currently working at Yamaha Motor Company as Industrial Engineer, focused in the foundry process - HPDC and LPDC.
 <br/>
 
 #### You can find me here:
