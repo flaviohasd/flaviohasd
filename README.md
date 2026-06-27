@@ -5,11 +5,10 @@
 
 My name is Flávio Dias, I'm Mechanical Engineer graduated at Federal University of Amazonas (Brazil).
 <br/>
-<br/>
 
 #### Get to know me:
 - My interests are STEM (basically all engineering stuff), finances, music and games;
-- Life taught me to become a self-learner and I'm always trying to learn something new.
+- A self-learner always trying to learn something new.
 <br/>
 
 #### You can find me here:
